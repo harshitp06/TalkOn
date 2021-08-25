@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957469438566",
+    "firebase_url": "https://talkon-9435f.firebaseio.com",
+    "project_id": "talkon-9435f",
+    "storage_bucket": "talkon-9435f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957469438566:android:2354faa9df4394949133a7",
+        "android_client_info": {
+          "package_name": "com.example.talkon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957469438566-3jt6lioia07lkv2simbm44etqmsej3fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmX68d48uc9kmYf1b0ECF7yDmuAW44uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957469438566-3jt6lioia07lkv2simbm44etqmsej3fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
